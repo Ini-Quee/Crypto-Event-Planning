@@ -33,7 +33,7 @@ Crypto events and conferences are a way to educate the public about cryptocurren
 **Crypto conventions: Conventions highlight emerging cryptocurrencies and discuss their applications.
 
 
-TEAM MEMMBRS
+TEAM MEMBERS
 
 
 https://github.com/Raad05 Full-stack Engineer || Web3 Freshman
