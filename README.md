@@ -1,6 +1,6 @@
 ### Hi there 👋, We are The Wolfs #r2w3 ll
 ####  Crypto Event Planning
-![ Crypto Event Planning](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixels.com%2Ffeatured%2Fpack-of-wolf-howling-at-the-moon-damien-adam.html&psig=AOvVaw3fJgFQNc1ls-1Eq4lQdazG&ust=1706184345296000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjhj5T-9YMDFQAAAAAdAAAAABAj)
+
 
 Cryptocurrency is a virtual currency that you can’t double-spend or counterfeit because it has cryptography security. This form of currency is not distributed by agencies or governments, making them immune to manipulation. Rather than going through a third party, such as a bank, cryptocurrency allows two parties to complete a safe, legitimate transfer of funds using blockchains.
 
