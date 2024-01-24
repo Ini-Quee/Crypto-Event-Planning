@@ -11,9 +11,48 @@ Purpose🔭
 
 What's Inside? 🗂️
 
-Session-planning :Begin your project with clarity and confidence. This template helps you discuss your vision, 
+**Session-planning :Begin your project with clarity and confidence. This template helps you discuss your vision, 
 set clear objectives on how to meticulously plan the technical architecture of our application. It's your first step towards creating something remarkable.
 
-Project Structure Template: Dive into development with a well-organized and intuitive project structure. This template is designed to ensure that your project is easy to navigate, maintain, and scale. It sets the stage for 
+**Development-tools-and-resourcese:
+
+Dive into development with a well-organized and intuitive project structure. This template is designed to ensure that your project is easy to navigate, maintain, and scale. It sets the stage for 
+
+
+Types of Crypto Events 🚀
+
+Crypto events and conferences are a way to educate the public about cryptocurrencies and allow those in attendance to connect with others in the industry.
+
+
+**Crypto launch party: These events offer tokens for a new cryptocurrency.
+
+**Blockchain launch parties: These launch parties introduce new technologies for blockchains.
+
+**Crypto events: General events gather like-minded people to discuss the effects of crypto in the world.
+
+**Crypto conventions: Conventions highlight emerging cryptocurrencies and discuss their applications.
+
+
+TEAM MEMMBRS
+
+
+https://github.com/Raad05 Full-stack Engineer || Web3 Freshman
+
+https://github.com/Psianturi  blockchain/web3 technology.
+
+https://github.com/haiderBukhari Full Stack Developer 
+
+https://github.com/Ini-Quee/Metaschool Blockchain developer
+
+
+
+Discord Community: Connect with fellow developers, share your journey, and find support in our Discord community https://discord.gg/wBkmmYgH. It's a space where ideas spark, questions find answers, and projects come to life
+
+
+
+
+
+
+
 
 
