@@ -7,6 +7,7 @@ Cryptocurrency is a virtual currency that you can’t double-spend or counterfei
 Skills: JS / HTML / CSS/SOLIDITY
 
 Purpose🔭
+
    Blockchains are public transaction databases to track the spending and receiving of cryptocurrency. Blockchains group information together and, once filled, they close by linking to the previous block. This technology makes transferring funds secure and eliminates the ability to double-spend or counterfeit what it’s in your wallet. Cryptocurrency requires blockchains, while blockchains have value without cryptocurrency. 
 
 What's Inside? 🗂️
